@@ -1,0 +1,11 @@
+=== Robust claims (auto-generated; verify against the figures) ===
+1. Leakage control: removing long-range distance information changes balanced accuracy from 0.833 (unbounded distances) to 0.746 (reach <= 30 um); difference -0.087 (95% CI -0.098 to -0.077).
+2. Beyond own cell type: strict spatial features reach 0.746 (CI 0.733-0.756) vs 0.612 for the cross-validated own-type baseline; difference +0.133 (95% CI +0.124 to +0.143).
+3. Expression alone (own transcriptome): 0.731; strict spatial alone: 0.746; spatial minus expression +0.014 (95% CI +0.004 to +0.024).
+4. Main research question - spatial features beyond expression: combined minus expression-only +0.042 (95% CI +0.035 to +0.049); combined minus spatial-only +0.027 (95% CI +0.022 to +0.033).
+5. Expression without the marker genes used to define cell types still gives 0.711 (vs own-type baseline +0.099 (95% CI +0.088 to +0.110)).
+6. Random CV inflates performance: coordinates-only 0.858 (random) vs 0.572 (spatial); strict spatial 0.762 vs 0.746.
+7. Buffer sensitivity: balanced accuracy ranges 0.745-0.748 across buffers 0-150 um.
+8. Partition sensitivity: 0.746-0.748 across block sizes [250, 500, 1000] and 3 partition seeds.
+9. Target-ring sensitivity (strict spatial): ring 50-100 um = 0.746 (own-type 0.612); ring 75-125 um = 0.715 (own-type 0.566); ring 100-150 um = 0.688 (own-type 0.528).
+10. Boundary cells: strict spatial model 0.767 on high-margin cells vs 0.556 on the 10% lowest-margin cells.

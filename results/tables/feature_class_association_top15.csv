@@ -1,0 +1,16 @@
+feature,group,eta2,eta2_ci_low,eta2_ci_high,naive_KW_p
+frac_Epithelial_r30,composition,0.6518,0.6198,0.6793,0.0
+dist_nearest_Epithelial,distance,0.613,0.5791,0.6458,0.0
+frac_Epithelial_r15,composition,0.5255,0.4844,0.5612,0.0
+dist_nearest_B_cell,distance,0.4436,0.3793,0.503,0.0
+frac_Stromal_r30,composition,0.3381,0.2865,0.3858,0.0
+dist_nearest_Stromal,distance,0.3139,0.2709,0.3539,0.0
+frac_T_cell_r30,composition,0.2882,0.2445,0.3348,0.0
+frac_T_cell_r15,composition,0.2675,0.224,0.3078,0.0
+frac_B_cell_r30,composition,0.2571,0.2058,0.3075,0.0
+dominant_frac_r30,diversity,0.2556,0.2189,0.2869,0.0
+entropy_r30,diversity,0.2298,0.1927,0.2626,0.0
+dist_nearest_T_cell,distance,0.2113,0.1673,0.2561,0.0
+frac_B_cell_r15,composition,0.1843,0.1392,0.2258,0.0
+entropy_r15,diversity,0.165,0.1379,0.1894,0.0
+frac_Stromal_r15,composition,0.1547,0.1268,0.1823,0.0

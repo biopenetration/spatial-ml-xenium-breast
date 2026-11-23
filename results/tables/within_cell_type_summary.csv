@@ -1,0 +1,5 @@
+own_type,n_cells,median_eta2,max_eta2,n_features_ci_above_negligible
+Epithelial,69176,0.0131,0.2245,18
+Myeloid,15073,0.0227,0.6632,22
+Stromal,25852,0.0504,0.6288,30
+T_cell,28277,0.0288,0.5652,22

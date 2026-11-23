@@ -1,0 +1,13 @@
+=== Key results (auto-generated; check against the figures) ===
+1. 31/43 features show class association above the spatial null with a CI above 'negligible'.
+   - boundary     mean eta2 = 0.030 (max 0.056); supported 1/2
+   - composition  mean eta2 = 0.184 (max 0.652); supported 16/18
+   - density      mean eta2 = 0.010 (max 0.012); supported 0/4
+   - distance     mean eta2 = 0.168 (max 0.613); supported 8/12
+   - diversity    mean eta2 = 0.201 (max 0.256); supported 4/4
+   - morphology   mean eta2 = 0.098 (max 0.154); supported 2/3
+2. Morphology (cell-intrinsic control group): mean eta2 = 0.098; supported 2/3.
+3. Strongest feature: frac_Epithelial_r30 (eta2 0.652, 95% CI 0.620-0.679; spatial-null p 0.005).
+4. Naive KW p<1e-6 for 43/43 features, but only 31 are supported under spatial nulls.
+5. Within own cell type, median eta2 by type: {'Epithelial': 0.013, 'Myeloid': 0.023, 'Stromal': 0.05, 'T_cell': 0.029} (overall median 0.124)
+6. Local enrichment surviving the within-tile null: 65/72 pair tests.

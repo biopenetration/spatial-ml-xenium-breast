@@ -1,0 +1,4 @@
+features,random_cv,spatial_cv,inflation,inflation_ci_low,inflation_ci_high
+coordinates,0.8575,0.572,0.2856,0.2492,0.3225
+spatial_strict,0.7619,0.7457,0.0161,0.0131,0.0197
+expression,0.7432,0.7313,0.0118,0.0082,0.0158

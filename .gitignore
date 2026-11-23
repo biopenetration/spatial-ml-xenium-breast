@@ -1,0 +1,24 @@
+# data and large intermediates are never committed
+data/*
+!data/README.md
+*.h5
+*.h5ad
+*.parquet
+*.npz
+ml_checkpoints/
+eval_checkpoints/
+demo_output/
+
+# python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# local
+.DS_Store
+.env
+*.zip

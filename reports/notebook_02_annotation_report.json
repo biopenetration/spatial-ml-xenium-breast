@@ -1,0 +1,11 @@
+{
+  "cells_after_qc": 164000,
+  "genes": 313,
+  "n_lineages_used": 11,
+  "n_clusters_primary": 21,
+  "n_ambiguous_clusters": 6,
+  "fraction_cells_ambiguous": 0.1688658536585366,
+  "fraction_high_confidence": 0.693469512195122,
+  "min_agreement_across_runs": 0.842609756097561,
+  "nonmarker_balanced_accuracy": 0.9138881053324095
+}

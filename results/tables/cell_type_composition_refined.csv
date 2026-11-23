@@ -1,0 +1,10 @@
+cell_type,n_cells,fraction
+Epithelial,69213,0.422
+T_cell,28354,0.1729
+B_cell,4012,0.0245
+Myeloid,15171,0.0925
+Mast_cell,723,0.0044
+Endothelial,9070,0.0553
+Mural,9719,0.0593
+Stromal,26455,0.1613
+Unassigned,1283,0.0078

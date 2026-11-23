@@ -1,0 +1,7 @@
+n_cells,top_lineage,top_score,second_lineage,second_score,score_ratio,fine_label,rule
+3934,Myoepithelial_basal,0.613,Epithelial_luminal,0.531,0.866,Epithelial_basal_luminal,resolved: compatible pair
+635,Dendritic_cell,0.456,Fibroblast_stromal,0.435,0.953,Unassigned,kept ambiguous
+5895,Myoepithelial_basal,0.834,Pericyte_smooth_muscle,0.724,0.869,Mural_myoepithelial,resolved: compatible pair
+15171,Macrophage_myeloid,1.0,Dendritic_cell,0.804,0.804,Myeloid,resolved: compatible pair
+648,T_cell,0.298,Macrophage_myeloid,0.29,0.97,Unassigned,kept ambiguous
+1411,Adipocyte,1.0,Fibroblast_stromal,0.886,0.886,Stromal_adipose,resolved: compatible pair

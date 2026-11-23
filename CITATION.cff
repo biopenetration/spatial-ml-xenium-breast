@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: Leakage-safe spatial machine learning on Xenium breast cancer data
+version: 1.0.0
+date-released: 2026-11-20
+authors:
+  - name: Sajib Islam
+repository-code: https://github.com/biopenetration/spatial-ml-xenium-breast
+license: MIT

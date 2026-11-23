@@ -1,0 +1,4 @@
+index,n_cells,fraction_of_valid,Epithelial,T_cell,B_cell,Myeloid,Mast_cell,Endothelial,Mural,Stromal
+ME1_Epithelial-rich,69389,0.425,0.769,0.05,0.001,0.049,0.001,0.041,0.04,0.047
+ME2_Epithelial/T_cell,47603,0.292,0.33,0.21,0.017,0.104,0.005,0.064,0.102,0.167
+ME3_T_cell/Stromal,46130,0.283,0.016,0.339,0.07,0.146,0.008,0.066,0.042,0.313

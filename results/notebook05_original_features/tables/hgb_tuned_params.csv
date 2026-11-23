@@ -1,0 +1,6 @@
+fold,learning_rate,max_leaf_nodes,max_iter,l2_regularization,min_samples_leaf,inner_cv_bal_acc
+0,0.05,15,200,1.0,100,0.8302
+1,0.05,15,200,1.0,100,0.8395
+2,0.05,15,200,1.0,100,0.8255
+3,0.05,15,200,1.0,100,0.8237
+4,0.05,15,200,1.0,100,0.8283

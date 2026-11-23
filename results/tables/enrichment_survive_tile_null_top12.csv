@@ -1,0 +1,13 @@
+radius_um,type_a,type_b,log2_obs_over_null_global,log2_obs_over_null_within_tile,q_global,q_within_tile
+15,Epithelial,B_cell,-5.066,-3.37,0.006,0.006
+30,Epithelial,B_cell,-4.476,-2.792,0.006,0.006
+15,Mast_cell,Mast_cell,3.535,2.763,0.006,0.006
+15,Epithelial,Mast_cell,-3.477,-2.545,0.006,0.006
+15,Epithelial,Stromal,-3.5,-2.373,0.006,0.006
+15,Endothelial,Endothelial,2.318,2.124,0.006,0.006
+15,Epithelial,Endothelial,-2.309,-2.046,0.006,0.006
+15,Epithelial,T_cell,-2.754,-1.983,0.006,0.006
+30,Epithelial,Mast_cell,-2.756,-1.858,0.006,0.006
+15,Mural,Mural,2.634,1.8,0.006,0.006
+30,Epithelial,Stromal,-2.625,-1.532,0.006,0.006
+15,Epithelial,Myeloid,-2.034,-1.52,0.006,0.006

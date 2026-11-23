@@ -1,0 +1,14 @@
+group,mean,std
+dist_nearest_type,0.4066,0.0127
+composition_r30,0.1077,0.01
+boundary_r30,0.001,0.0005
+composition_r15,0.0003,0.0024
+diversity_r15,0.0002,0.0005
+own_cell_type,0.0001,0.0005
+density_r30,0.0001,0.002
+diversity_r30,0.0001,0.0015
+density_r15,0.0001,0.0001
+mean_nbr_dist_r30,0.0001,0.0005
+mean_nbr_dist_r15,-0.0,0.0003
+boundary_r15,-0.0001,0.0001
+knn_distance,-0.0002,0.0015

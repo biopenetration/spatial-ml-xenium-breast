@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spatialml"
+version = "1.0.0"
+description = "Leakage-safe spatial machine learning for Xenium spatial transcriptomics"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Sajib Islam", email = "181800519+biopenetration@users.noreply.github.com"}]
+dependencies = ["numpy>=1.24", "scipy>=1.10", "pandas>=2.0", "scikit-learn>=1.3"]
+
+[project.optional-dependencies]
+notebooks = ["anndata>=0.10", "scanpy>=1.10", "h5py", "matplotlib", "seaborn", "pyarrow", "igraph", "ipython", "jupyter"]
+dev = ["pytest>=7"]
+
+[project.scripts]
+spatialml = "spatialml.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

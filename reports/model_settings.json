@@ -1,0 +1,9 @@
+{
+  "hgb_parameters_used": {
+    "learning_rate": 0.05,
+    "max_leaf_nodes": 15,
+    "max_iter": 200,
+    "l2_regularization": 1.0,
+    "min_samples_leaf": 100
+  }
+}

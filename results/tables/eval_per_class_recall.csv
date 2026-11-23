@@ -1,0 +1,4 @@
+class,combined,expression,spatial_strict,type_lookup
+ME1_Epithelial-rich,0.856,0.829,0.844,0.782
+ME2_Epithelial/T_cell,0.582,0.509,0.525,0.159
+ME3_T_cell/Stromal,0.882,0.857,0.868,0.895

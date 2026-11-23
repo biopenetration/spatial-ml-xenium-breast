@@ -1,0 +1,9 @@
+model_A,model_B,diff_bal_acc,ci_low,ci_high,A_better_in_pct_of_bootstraps,excludes_zero
+logreg_spatial,type_lookup,0.2099,0.1984,0.2211,100.0,True
+rf_spatial,type_lookup,0.2165,0.2059,0.2274,100.0,True
+hgb_spatial,type_lookup,0.2209,0.2089,0.2331,100.0,True
+hgb_spatial+type,type_lookup,0.2216,0.2095,0.2339,100.0,True
+hgb_spatial+type,hgb_spatial,0.0007,0.0001,0.0013,99.1,True
+hgb_spatial,logreg_spatial,0.011,0.0061,0.0161,100.0,True
+rf_spatial,hgb_spatial,-0.0044,-0.0076,-0.0012,0.1,True
+hgb_spatial+morph,hgb_spatial,0.0005,-0.0002,0.0011,91.0,False

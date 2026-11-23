@@ -1,0 +1,7 @@
+model,class,recall,ci_low,ci_high
+hgb_spatial+type,ME1_Epithelial-rich,0.856,0.826,0.882
+hgb_spatial+type,ME2_Epithelial/T_cell,0.775,0.746,0.801
+hgb_spatial+type,ME3_T_cell/Stromal,0.871,0.847,0.893
+type_lookup,ME1_Epithelial-rich,0.782,0.765,0.798
+type_lookup,ME2_Epithelial/T_cell,0.159,0.143,0.176
+type_lookup,ME3_T_cell/Stromal,0.895,0.881,0.907

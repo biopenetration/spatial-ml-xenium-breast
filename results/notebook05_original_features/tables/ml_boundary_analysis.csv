@@ -1,0 +1,10 @@
+model,bal_acc_high_margin_90pct,bal_acc_low_margin_10pct
+hgb_spatial+type,0.865,0.546
+hgb_spatial+morph,0.865,0.547
+hgb_spatial,0.865,0.546
+rf_spatial,0.859,0.56
+rf_spatial+type,0.858,0.56
+logreg_spatial+type,0.852,0.562
+logreg_spatial,0.851,0.562
+type_lookup,0.621,0.515
+majority,0.333,0.333

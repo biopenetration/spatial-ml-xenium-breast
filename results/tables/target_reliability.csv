@@ -1,0 +1,4 @@
+class,n,median_silhouette,frac_silhouette_below_0,median_margin
+ME1_Epithelial-rich,8588,0.488,0.0,0.408
+ME2_Epithelial/T_cell,5815,0.277,0.067,0.246
+ME3_T_cell/Stromal,5597,0.307,0.057,0.3

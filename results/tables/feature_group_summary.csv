@@ -1,0 +1,7 @@
+group,n,mean_eta2,max_eta2,n_supported
+boundary,2,0.0301,0.056,1
+composition,18,0.1836,0.6518,16
+density,4,0.0099,0.012,0
+distance,12,0.168,0.613,8
+diversity,4,0.2012,0.2556,4
+morphology,3,0.0985,0.1536,2

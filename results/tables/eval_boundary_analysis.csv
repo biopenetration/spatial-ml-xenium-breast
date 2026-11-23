@@ -1,0 +1,5 @@
+model,all,high_margin_90pct,low_margin_10pct
+type_lookup,0.612,0.621,0.515
+spatial_strict,0.746,0.767,0.556
+expression,0.731,0.75,0.553
+combined,0.773,0.796,0.565

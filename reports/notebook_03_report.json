@@ -1,0 +1,40 @@
+{
+  "n_cells": 164000,
+  "n_features": 43,
+  "feature_table_format": "parquet",
+  "coarse_types": [
+    "Epithelial",
+    "T_cell",
+    "B_cell",
+    "Myeloid",
+    "Mast_cell",
+    "Endothelial",
+    "Mural",
+    "Stromal"
+  ],
+  "fraction_unassigned": 0.007823170731707317,
+  "target_k": 3,
+  "target_valid_cells": 163122,
+  "target_classes": [
+    "ME1_Epithelial-rich",
+    "ME2_Epithelial/T_cell",
+    "ME3_T_cell/Stromal"
+  ],
+  "target_spatial_coherence_ratio": 2.720949051945929,
+  "majority_baseline_accuracy": 0.42538100317553734,
+  "chance_balanced_accuracy": 0.3333333333333333,
+  "feature_radii_um": [
+    15,
+    30
+  ],
+  "target_annulus_um": [
+    50,
+    100
+  ],
+  "cv": {
+    "block_um": 500,
+    "buffer_um": 100,
+    "folds": 5
+  },
+  "leakage_checks": "passed (radius < annulus, self excluded, buffer >= outer radius, brute-force unit tests)"
+}

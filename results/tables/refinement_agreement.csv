@@ -1,0 +1,9 @@
+index,agreement_before,agreement_after,n_before,n_after
+Epithelial,0.976,0.975,65279.0,69213
+T_cell,0.609,0.609,28354.0,28354
+B_cell,0.664,0.664,4012.0,4012
+Myeloid,,0.685,,15171
+Mast_cell,0.961,0.961,723.0,723
+Endothelial,0.639,0.639,9070.0,9070
+Mural,0.815,0.911,3824.0,9719
+Stromal,0.831,0.84,25044.0,26455
